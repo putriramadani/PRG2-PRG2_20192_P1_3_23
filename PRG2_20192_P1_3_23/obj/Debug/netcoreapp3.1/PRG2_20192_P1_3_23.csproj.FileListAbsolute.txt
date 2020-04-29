@@ -1,0 +1,10 @@
+C:\Users\putri ramadani rais\source\repos\PRG2_20192_P1_3_23\PRG2_20192_P1_3_23\obj\Debug\netcoreapp3.1\PRG2_20192_P1_3_23.AssemblyInfoInputs.cache
+C:\Users\putri ramadani rais\source\repos\PRG2_20192_P1_3_23\PRG2_20192_P1_3_23\obj\Debug\netcoreapp3.1\PRG2_20192_P1_3_23.AssemblyInfo.cs
+C:\Users\putri ramadani rais\source\repos\PRG2_20192_P1_3_23\PRG2_20192_P1_3_23\bin\Debug\netcoreapp3.1\PRG2_20192_P1_3_23.exe
+C:\Users\putri ramadani rais\source\repos\PRG2_20192_P1_3_23\PRG2_20192_P1_3_23\bin\Debug\netcoreapp3.1\PRG2_20192_P1_3_23.deps.json
+C:\Users\putri ramadani rais\source\repos\PRG2_20192_P1_3_23\PRG2_20192_P1_3_23\bin\Debug\netcoreapp3.1\PRG2_20192_P1_3_23.runtimeconfig.json
+C:\Users\putri ramadani rais\source\repos\PRG2_20192_P1_3_23\PRG2_20192_P1_3_23\bin\Debug\netcoreapp3.1\PRG2_20192_P1_3_23.runtimeconfig.dev.json
+C:\Users\putri ramadani rais\source\repos\PRG2_20192_P1_3_23\PRG2_20192_P1_3_23\bin\Debug\netcoreapp3.1\PRG2_20192_P1_3_23.dll
+C:\Users\putri ramadani rais\source\repos\PRG2_20192_P1_3_23\PRG2_20192_P1_3_23\bin\Debug\netcoreapp3.1\PRG2_20192_P1_3_23.pdb
+C:\Users\putri ramadani rais\source\repos\PRG2_20192_P1_3_23\PRG2_20192_P1_3_23\obj\Debug\netcoreapp3.1\PRG2_20192_P1_3_23.dll
+C:\Users\putri ramadani rais\source\repos\PRG2_20192_P1_3_23\PRG2_20192_P1_3_23\obj\Debug\netcoreapp3.1\PRG2_20192_P1_3_23.pdb
